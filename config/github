@@ -1,0 +1,7 @@
+# Set user name
+# https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git
+git config --global user.name "sfc-gh-juchen"
+
+# Set user email
+# https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+git config --global user.email "217665008+sfc-gh-juchen@users.noreply.github.com"
